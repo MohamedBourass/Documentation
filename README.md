@@ -1,4 +1,5 @@
 ## Table of Contents
+- [Level Headings](#level-1-heading)
 - [Code](#code)
 - [Tables](#tables)
 - [Call Outs](#call-outs)
@@ -13,6 +14,8 @@
 
 Use `code` for inline text.
 
+### Json
+
 ```json
 {
     "software": {
@@ -22,6 +25,7 @@ Use `code` for inline text.
     }
 }
 ```
+### Java
 
 ```java
 public class HelloWorld {
@@ -30,6 +34,7 @@ public class HelloWorld {
     }
 }
 ```
+### Javascript
 
 ```javascript
 function greet(name) {
