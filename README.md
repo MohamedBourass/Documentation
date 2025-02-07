@@ -67,7 +67,17 @@ function greet(name) {
   </tr>
 </table>
 
-## Call Outs
+## Miscellaneous
+
+### Links
+
+- [Documents](https://documents.example.com)
+
+### Images
+
+![Spark Cluster overview](https://spark.apache.org/docs/latest/img/cluster-overview.png)
+
+### Call Outs
 
 > [!NOTE]
 > Remember to always save your progress before closing the application.
@@ -83,12 +93,6 @@ function greet(name) {
 
 > [!CAUTION]
 > Be cautious when sharing personal information online; protect your privacy.
-
-## Miscellaneous
-
-### Links
-
-- [Documents](https://documents.example.com)
 
 ### Collapsible Sections
 
